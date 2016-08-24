@@ -1,0 +1,50 @@
+h1 {
+	font-family: verdana, sans-serif;
+	font-weight: normal;
+	font-size:32px;
+	text-align: center;
+	padding-top:18px;
+	color:white;
+}
+
+.hline {
+	width:600px;
+	height:80px;
+	background-color:blue;
+}
+
+.copy{
+	width:580px;
+	height:90px;
+	padding:10px;
+	background-color:pink;
+}
+
+p {
+	font-family:serif;
+	font-weight: normal;
+	font-size:14px;
+}
+
+.btns{
+	width:600px;
+	height:100px;
+	position:absolute;
+	top:360px;
+}
+
+.box{
+	width:600px;
+	height:60px;
+	background-color:orange;
+	padding-top:1px;
+	padding-bottom:50px;
+}
+
+.justPlaying{
+	width:60px;
+	height:60px;
+	position:absolute;
+	top:400px;
+	background-color:purple;
+}
